@@ -26,7 +26,7 @@ class Solution:
 
         box = [x for x in range(2, n)]
 
-        for i in range(round(sqrt(n) - 1)):
+        for i in range(round(sqrt(n)) - 1):
             x = box[i]
             if x == 0:
                 continue

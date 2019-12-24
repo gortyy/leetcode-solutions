@@ -1,0 +1,1 @@
+testcase = [("aA", "aAAbbbb", 3), ("z", "ZZ", 0)]
